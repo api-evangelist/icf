@@ -1,0 +1,61 @@
+{
+    "name": "ICF",
+    "description": "We make big things possible for our clients. We provide data, insights, and deep implementation expertise they need to deliver results that matter.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28501-icf.jpg",
+    "tags": [
+        "agencies",
+        "have api",
+        "isp"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/icf\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "ICF",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28501-icf.jpg",
+            "humanURL": "https:\/\/www.icf.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/icf-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/icf-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/icf-international"
+        },
+        {
+            "type": "Email",
+            "url": "ICFCareerCenter@icf.com"
+        },
+        {
+            "type": "Email",
+            "url": "dataprotection@icf.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@icf.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ICF"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.icf.com"
+        }
+    ]
+}
